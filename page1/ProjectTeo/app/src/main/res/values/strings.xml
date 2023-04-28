@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectTeo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">"Discover Your Sexual Health with Our Sex Education (SeDu) App"</string>
+
+</resources>
