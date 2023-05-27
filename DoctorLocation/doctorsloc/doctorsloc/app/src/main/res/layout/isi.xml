@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+        <RelativeLayout
+            android:layout_width="412dp"
+            android:layout_height="730dp">
+
+        <RelativeLayout
+            android:id="@+id/page_doctor_location_ek1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="23dp"
+            android:layout_marginTop="50dp">
+
+            <ImageView
+                android:id="@+id/icons8_before_playlist_button_on_a_music_application_48__4__1"
+                android:layout_width="36dp"
+                android:layout_height="35dp"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="0dp"
+                android:contentDescription="icons8_before_playlist_button_on_a_music_application_48__4__1"
+                android:src="@drawable/icons8_before_playlist_button_on_a_music_application_48__4__1" />
+
+            <ImageView
+                android:id="@+id/icons8_close_window_48_2"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginStart="333dp"
+                android:layout_marginTop="0dp"
+                android:contentDescription="icons8_close_window_48_2"
+                android:src="@drawable/icons8_close_window_48_2" />
+
+
+        </RelativeLayout>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:text="Doctor's Location"
+                android:layout_marginTop="130dp"
+                android:layout_centerHorizontal="true"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                />
+            <ImageView
+                android:id="@+id/peta"
+                android:layout_width="350dp"
+                android:layout_height="260dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="170dp"
+                android:contentDescription="peta"
+                android:src="@drawable/peta" />
+            <TextView
+                android:id="@+id/dr1"
+
+                android:layout_width="350dp"
+                android:layout_height="160dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="30dp"
+                android:layout_below="@+id/peta"
+                android:text="dr. Antoni Miftah, Sp.KK, FINSDV, FAADV"
+                android:textColor="@color/black"
+                android:background="#B7FBEB"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/ket"
+                android:layout_width="300dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="55dp"
+                android:layout_marginTop="100dp"
+                android:layout_below="@id/peta"
+                android:text="4,4 (130) · Dermatolog
+Jalan Gajah Mada No.18 B C D · 0812-1628-7776
+Buka ⋅ Tutup pukul 21.30"
+                android:textColor="@color/black"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/btnback"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/ket"
+                android:layout_marginTop="20dp"
+                android:layout_centerHorizontal="true"
+                android:backgroundTint="#40E0D0"
+                android:text="Back"/>
+
+        </RelativeLayout>
+
+</HorizontalScrollView>

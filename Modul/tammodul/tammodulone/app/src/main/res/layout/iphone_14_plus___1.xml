@@ -1,0 +1,150 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		iphone_14_plus___1
+	 *	@date 		Thursday 04th of May 2023 03:33:10 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_14_plus___1" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_iphone_14_plus___1_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__iphone_14_plus___1_ek2"
+					android:background="@drawable/_bg__iphone_14_plus___1_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="428dp"
+					android:layout_height="926dp" />
+
+
+				<RelativeLayout
+					android:id="@+id/module_2"
+					android:layout_width="412dp"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp">
+
+
+					<RelativeLayout
+						android:id="@+id/artikel"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="180dp">
+
+						<View
+							android:id="@+id/rectangle_29"
+							android:layout_width="428dp"
+							android:layout_height="1096dp"
+							android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:background="@drawable/rectangle_29_shape" />
+
+						<TextView
+							android:id="@+id/jenis_jenis_pelecehan_seksual_menurut_kategorinya__pelecehan_seksual_dibagi_menjadi_5_jenis__yaitu__pelecehan_gender___pernyataan_dan_perilaku_seksis_yang_menghina_atau_merendahkan_wanita__contohnya_termasuk_komentar_yang_menghina__gambar_atau_tulisan_yang_merendahkan_wanita__lelucon_cabul_atau_humor_tentang_seks_atau_wanita_pada_umumnya__perilaku_menggoda___perilaku_seksual_yang_menyinggung__tidak_pantas__dan_tidak_diinginkan__contohnya_termasuk_mengulangi_ajakan_seksual_yang_tidak_diinginkan__memaksa_untuk_makan_malam__minum__atau_kencan__mengirimkan_surat_dan_panggilan_telepon_yang_tak_henti_henti_meski_sudah_ditolak__serta_ajakan_lainnya__penyuapan_seksual___permintaan_aktivitas_seksual_atau_perilaku_terkait_seks_lainnya_dengan_janji_imbalan__rencana_mungkin_dilakukan_secara_terang_terangan_atau_secara_halus__pemaksaan_seksual___pemaksaan_aktivitas_seksual_atau_perilaku_terkait_seks_lainnya_dengan_ancaman_hukuman__contohnya_seperti_evaluasi_kerja_yang_negatif__pencabutan_promosi_kerja__dan_ancaman_pembunuhan_"
+
+							android:layout_width="360dp"
+							android:layout_height="707dp"
+							android:layout_marginLeft="25dp"
+							android:layout_marginTop="327dp"
+							android:text="@string/jenis_jenis_pelecehan_seksual_menurut_kategorinya__pelecehan_seksual_dibagi_menjadi_5_jenis__yaitu__pelecehan_gender___pernyataan_dan_perilaku_seksis_yang_menghina_atau_merendahkan_wanita__contohnya_termasuk_komentar_yang_menghina__gambar_atau_tulisan_yang_merendahkan_wanita__lelucon_cabul_atau_humor_tentang_seks_atau_wanita_pada_umumnya__perilaku_menggoda___perilaku_seksual_yang_menyinggung__tidak_pantas__dan_tidak_diinginkan__contohnya_termasuk_mengulangi_ajakan_seksual_yang_tidak_diinginkan__memaksa_untuk_makan_malam__minum__atau_kencan__mengirimkan_surat_dan_panggilan_telepon_yang_tak_henti_henti_meski_sudah_ditolak__serta_ajakan_lainnya__penyuapan_seksual___permintaan_aktivitas_seksual_atau_perilaku_terkait_seks_lainnya_dengan_janji_imbalan__rencana_mungkin_dilakukan_secara_terang_terangan_atau_secara_halus__pemaksaan_seksual___pemaksaan_aktivitas_seksual_atau_perilaku_terkait_seks_lainnya_dengan_ancaman_hukuman__contohnya_seperti_evaluasi_kerja_yang_negatif__pencabutan_promosi_kerja__dan_ancaman_pembunuhan__string"
+							android:textColor="@color/jenis_jenis_pelecehan_seksual_menurut_kategorinya__pelecehan_seksual_dibagi_menjadi_5_jenis__yaitu__pelecehan_gender___pernyataan_dan_perilaku_seksis_yang_menghina_atau_merendahkan_wanita__contohnya_termasuk_komentar_yang_menghina__gambar_atau_tulisan_yang_merendahkan_wanita__lelucon_cabul_atau_humor_tentang_seks_atau_wanita_pada_umumnya__perilaku_menggoda___perilaku_seksual_yang_menyinggung__tidak_pantas__dan_tidak_diinginkan__contohnya_termasuk_mengulangi_ajakan_seksual_yang_tidak_diinginkan__memaksa_untuk_makan_malam__minum__atau_kencan__mengirimkan_surat_dan_panggilan_telepon_yang_tak_henti_henti_meski_sudah_ditolak__serta_ajakan_lainnya__penyuapan_seksual___permintaan_aktivitas_seksual_atau_perilaku_terkait_seks_lainnya_dengan_janji_imbalan__rencana_mungkin_dilakukan_secara_terang_terangan_atau_secara_halus__pemaksaan_seksual___pemaksaan_aktivitas_seksual_atau_perilaku_terkait_seks_lainnya_dengan_ancaman_hukuman__contohnya_seperti_evaluasi_kerja_yang_negatif__pencabutan_promosi_kerja__dan_ancaman_pembunuhan__color"
+							android:textSize="16sp" />
+
+						<TextView
+							android:id="@+id/mengenali_jenis_pelecehan_seksual"
+
+							android:layout_width="384dp"
+							android:layout_height="41dp"
+							android:layout_gravity="center_horizontal|center"
+							android:layout_marginLeft="15dp"
+							android:layout_marginTop="290dp"
+							android:gravity="center"
+							android:text="@string/mengenali_jenis_pelecehan_seksual_string"
+							android:textColor="@color/jenis_jenis_pelecehan_seksual_menurut_kategorinya__pelecehan_seksual_dibagi_menjadi_5_jenis__yaitu__pelecehan_gender___pernyataan_dan_perilaku_seksis_yang_menghina_atau_merendahkan_wanita__contohnya_termasuk_komentar_yang_menghina__gambar_atau_tulisan_yang_merendahkan_wanita__lelucon_cabul_atau_humor_tentang_seks_atau_wanita_pada_umumnya__perilaku_menggoda___perilaku_seksual_yang_menyinggung__tidak_pantas__dan_tidak_diinginkan__contohnya_termasuk_mengulangi_ajakan_seksual_yang_tidak_diinginkan__memaksa_untuk_makan_malam__minum__atau_kencan__mengirimkan_surat_dan_panggilan_telepon_yang_tak_henti_henti_meski_sudah_ditolak__serta_ajakan_lainnya__penyuapan_seksual___permintaan_aktivitas_seksual_atau_perilaku_terkait_seks_lainnya_dengan_janji_imbalan__rencana_mungkin_dilakukan_secara_terang_terangan_atau_secara_halus__pemaksaan_seksual___pemaksaan_aktivitas_seksual_atau_perilaku_terkait_seks_lainnya_dengan_ancaman_hukuman__contohnya_seperti_evaluasi_kerja_yang_negatif__pencabutan_promosi_kerja__dan_ancaman_pembunuhan__color"
+							android:textSize="22sp"
+							android:textStyle="bold" />
+
+						<ImageView
+							android:id="@+id/gender_violence_pana_1"
+							android:layout_width="270dp"
+							android:layout_height="255dp"
+							android:layout_marginStart="67dp"
+							android:layout_marginTop="10dp"
+							android:contentDescription="gender_violence_pana_1"
+							android:src="@drawable/gender_violence_pana_1" />
+
+					</RelativeLayout>
+
+					<TextView
+						android:id="@+id/information_module"
+
+						android:layout_width="297dp"
+						android:layout_height="51dp"
+						android:layout_gravity="center_horizontal|center"
+						android:layout_marginLeft="55dp"
+						android:layout_marginTop="120dp"
+						android:gravity="center"
+						android:text="@string/information_module_string"
+						android:textColor="@color/jenis_jenis_pelecehan_seksual_menurut_kategorinya__pelecehan_seksual_dibagi_menjadi_5_jenis__yaitu__pelecehan_gender___pernyataan_dan_perilaku_seksis_yang_menghina_atau_merendahkan_wanita__contohnya_termasuk_komentar_yang_menghina__gambar_atau_tulisan_yang_merendahkan_wanita__lelucon_cabul_atau_humor_tentang_seks_atau_wanita_pada_umumnya__perilaku_menggoda___perilaku_seksual_yang_menyinggung__tidak_pantas__dan_tidak_diinginkan__contohnya_termasuk_mengulangi_ajakan_seksual_yang_tidak_diinginkan__memaksa_untuk_makan_malam__minum__atau_kencan__mengirimkan_surat_dan_panggilan_telepon_yang_tak_henti_henti_meski_sudah_ditolak__serta_ajakan_lainnya__penyuapan_seksual___permintaan_aktivitas_seksual_atau_perilaku_terkait_seks_lainnya_dengan_janji_imbalan__rencana_mungkin_dilakukan_secara_terang_terangan_atau_secara_halus__pemaksaan_seksual___pemaksaan_aktivitas_seksual_atau_perilaku_terkait_seks_lainnya_dengan_ancaman_hukuman__contohnya_seperti_evaluasi_kerja_yang_negatif__pencabutan_promosi_kerja__dan_ancaman_pembunuhan__color"
+						android:textSize="30sp"
+						android:textStyle="bold" />
+
+
+					<RelativeLayout
+						android:id="@+id/button"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_marginStart="20dp"
+						android:layout_marginTop="60dp">
+
+						<ImageView
+							android:id="@+id/icons8_before_playlist_button_on_a_music_application_48__4__2"
+							android:layout_width="36dp"
+							android:layout_height="35dp"
+							android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:contentDescription="icons8_before_playlist_button_on_a_music_application_48__4__2"
+							android:src="@drawable/icons8_before_playlist_button_on_a_music_application_48__4__2" />
+
+						<ImageView
+							android:id="@+id/icons8_close_window_48_2"
+							android:layout_width="35dp"
+							android:layout_height="35dp"
+							android:layout_marginStart="333dp"
+							android:layout_marginTop="0dp"
+							android:contentDescription="icons8_close_window_48_2"
+							android:src="@drawable/icons8_close_window_48_2" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

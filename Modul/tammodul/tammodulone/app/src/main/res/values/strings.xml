@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- module1 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="tentang_hiv___aids_yang_perlu_diketahui_string">Tentang HIV &amp; AIDS yang Perlu Diketahui</string>
+	<string name="hiv_merupakan_singkatan_dari_human_immunodeficiency_virus__artinya____string">HIV merupakan singkatan dari Human Immunodeficiency Virus, artinya...</string>
+	<string name="mengenal_perkembangan_reproduksi_manusia_string">Mengenal Perkembangan Reproduksi Manusia</string>
+	<string name="perkembangan_dapat_diartikan_sebagai_serangkaian_perubahan_progresif____string">Perkembangan dapat diartikan sebagai serangkaian perubahan progresif...</string>
+	<string name="search_for_everything_string">Search for everything</string>
+	<string name="information_module_string">Information module</string>
+</resources>

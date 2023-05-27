@@ -1,0 +1,244 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		module1
+	 *	@date 		Thursday 04th of May 2023 03:06:54 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/module1" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+			<RelativeLayout
+				android:id="@+id/page_module1_ek1"
+				android:layout_width="412dp"
+				android:layout_height="match_parent"
+				android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp">
+
+				<View
+					android:id="@+id/_bg__module1_ek2"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginTop="0dp"
+					android:background="@drawable/_bg__module1_ek2_shape" />
+
+
+				<RelativeLayout
+					android:id="@+id/module_2"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="30dp"
+					android:layout_marginTop="715dp">
+
+					<View
+						android:id="@+id/rectangle_27"
+						android:layout_width="258dp"
+						android:layout_height="120dp"
+						android:layout_marginStart="110dp"
+						android:layout_marginTop="0dp"
+						android:alpha="0.36000001430511"
+						android:background="@drawable/rectangle_27_shape" />
+
+					<ImageView
+						android:id="@+id/_10631461_4523758_1"
+						android:layout_width="110dp"
+						android:layout_height="120dp"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:contentDescription="_10631461_4523758_1"
+						android:src="@drawable/_10631461_4523758_1" />
+
+					<TextView
+						android:id="@+id/tentang_hiv___aids_yang_perlu_diketahui"
+
+						android:layout_width="215.5dp"
+						android:layout_height="47.11dp"
+						android:layout_marginLeft="125dp"
+						android:layout_marginTop="10dp"
+						android:text="@string/tentang_hiv___aids_yang_perlu_diketahui_string"
+						android:textColor="@color/tentang_hiv___aids_yang_perlu_diketahui_color"
+						android:textSize="15sp"
+						android:textStyle="bold" />
+
+					<TextView
+						android:id="@+id/hiv_merupakan_singkatan_dari_human_immunodeficiency_virus__artinya___"
+
+						android:layout_width="213.5dp"
+						android:layout_height="55.26dp"
+						android:layout_marginLeft="125dp"
+						android:layout_marginTop="55dp"
+						android:text="@string/hiv_merupakan_singkatan_dari_human_immunodeficiency_virus__artinya____string"
+						android:textColor="@color/tentang_hiv___aids_yang_perlu_diketahui_color"
+						android:textSize="13sp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout
+					android:id="@+id/module_1"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="30dp"
+					android:layout_marginTop="575dp">
+
+					<View
+						android:id="@+id/rectangle_26"
+						android:layout_width="258dp"
+						android:layout_height="120dp"
+						android:layout_marginStart="110dp"
+						android:layout_marginTop="0dp"
+						android:background="@drawable/rectangle_26_shape" />
+
+					<ImageView
+						android:id="@+id/_9071140_4045246_1"
+						android:layout_width="110dp"
+						android:layout_height="120dp"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:contentDescription="_9071140_4045246_1"
+						android:src="@drawable/_9071140_4045246_1" />
+
+					<TextView
+						android:id="@+id/mengenal_perkembangan_reproduksi_manusia"
+
+						android:layout_width="215.5dp"
+						android:layout_height="47.11dp"
+						android:layout_marginLeft="125dp"
+						android:layout_marginTop="10dp"
+						android:text="@string/mengenal_perkembangan_reproduksi_manusia_string"
+						android:textColor="@color/tentang_hiv___aids_yang_perlu_diketahui_color"
+						android:textSize="15sp"
+						android:textStyle="bold" />
+
+					<TextView
+						android:id="@+id/perkembangan_dapat_diartikan_sebagai_serangkaian_perubahan_progresif___"
+
+						android:layout_width="213.5dp"
+						android:layout_height="55.26dp"
+						android:layout_marginLeft="125dp"
+						android:layout_marginTop="55dp"
+						android:text="@string/perkembangan_dapat_diartikan_sebagai_serangkaian_perubahan_progresif____string"
+						android:textColor="@color/tentang_hiv___aids_yang_perlu_diketahui_color"
+						android:textSize="13sp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout
+					android:id="@+id/search_bar"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="30dp"
+					android:layout_marginTop="445dp">
+
+					<EditText
+						android:id="@+id/rectangle_15"
+						android:layout_width="355dp"
+						android:layout_height="75dp"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:background="@drawable/rectangle_15_shape"
+						android:hint="Search For Everything" />
+
+					<Button
+						android:id="@+id/rectangle_19"
+						android:hint="a"
+						android:layout_width="50dp"
+						android:layout_height="48dp"
+						android:layout_marginStart="300dp"
+						android:layout_marginTop="15dp"
+						android:drawableStart="@drawable/search" />
+
+					<ImageView
+						android:id="@+id/icons8_search_24_1"
+						android:layout_width="22.7dp"
+						android:layout_height="24dp"
+						android:layout_marginStart="318dp"
+						android:layout_marginTop="24dp"
+						android:contentDescription="icons8_search_24_1"
+						android:src="@drawable/icons8_search_24_1" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout
+					android:id="@+id/title"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="60dp"
+					android:layout_marginTop="120dp">
+
+					<TextView
+						android:id="@+id/information_module"
+
+						android:layout_width="297dp"
+						android:layout_height="50dp"
+						android:layout_gravity="center_horizontal|center"
+						android:layout_marginLeft="-5dp"
+						android:layout_marginTop="0dp"
+						android:gravity="center"
+						android:text="@string/information_module_string"
+						android:textColor="@color/tentang_hiv___aids_yang_perlu_diketahui_color"
+						android:textSize="30sp"
+						android:textStyle="bold" />
+
+					<ImageView
+						android:id="@+id/reading_book_pana_removebg_preview_2"
+						android:layout_width="270dp"
+						android:layout_height="242.49dp"
+						android:layout_marginStart="4dp"
+						android:layout_marginTop="53dp"
+						android:contentDescription="reading_book_pana_removebg_preview_2"
+						android:src="@drawable/reading_book_pana_removebg_preview_2" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout
+					android:id="@+id/button"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="20dp"
+					android:layout_marginTop="60dp">
+
+					<ImageView
+						android:id="@+id/icons8_before_playlist_button_on_a_music_application_48__4__1"
+						android:layout_width="36dp"
+						android:layout_height="35dp"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:contentDescription="icons8_before_playlist_button_on_a_music_application_48__4__1"
+						android:src="@drawable/icons8_before_playlist_button_on_a_music_application_48__4__1" />
+
+					<ImageView
+						android:id="@+id/icons8_close_window_48_2"
+						android:layout_width="35dp"
+						android:layout_height="35dp"
+						android:layout_marginStart="333dp"
+						android:layout_marginTop="0dp"
+						android:contentDescription="icons8_close_window_48_2"
+						android:src="@drawable/icons8_close_window_48_2" />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

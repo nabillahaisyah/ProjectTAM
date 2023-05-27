@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- iphone_14_plus___1 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+
+	<color name="_bg__iphone_14_plus___1_ek2_color">#FFFFFF</color>
+	<color name="jenis_jenis_pelecehan_seksual_menurut_kategorinya__pelecehan_seksual_dibagi_menjadi_5_jenis__yaitu__pelecehan_gender___pernyataan_dan_perilaku_seksis_yang_menghina_atau_merendahkan_wanita__contohnya_termasuk_komentar_yang_menghina__gambar_atau_tulisan_yang_merendahkan_wanita__lelucon_cabul_atau_humor_tentang_seks_atau_wanita_pada_umumnya__perilaku_menggoda___perilaku_seksual_yang_menyinggung__tidak_pantas__dan_tidak_diinginkan__contohnya_termasuk_mengulangi_ajakan_seksual_yang_tidak_diinginkan__memaksa_untuk_makan_malam__minum__atau_kencan__mengirimkan_surat_dan_panggilan_telepon_yang_tak_henti_henti_meski_sudah_ditolak__serta_ajakan_lainnya__penyuapan_seksual___permintaan_aktivitas_seksual_atau_perilaku_terkait_seks_lainnya_dengan_janji_imbalan__rencana_mungkin_dilakukan_secara_terang_terangan_atau_secara_halus__pemaksaan_seksual___pemaksaan_aktivitas_seksual_atau_perilaku_terkait_seks_lainnya_dengan_ancaman_hukuman__contohnya_seperti_evaluasi_kerja_yang_negatif__pencabutan_promosi_kerja__dan_ancaman_pembunuhan__color">#000000</color>
+</resources>
